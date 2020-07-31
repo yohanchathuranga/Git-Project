@@ -1,1 +1,5 @@
-feature​​1 ​​with 1 bug
+<<<<<<< HEAD
+feature​​ 1
+=======
+feature​​ 1
+>>>>>>> hotfix1
